@@ -1,0 +1,44 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Cinema Room REST Service (Java)/*
+!/Cinema Room REST Service (Java)/task/
+/Cinema Room REST Service (Java)/task/*
+!/Cinema Room REST Service (Java)/task/src
+!/Cinema Room REST Service (Java)/task/build.gradle
+
+# Project exclude paths
+/Topics/Data Transfer Object in Spring/Converting a Java class to a DTO implementation/out/
+/Topics/Data Transfer Object in Spring/Converting a Java class to a DTO implementation/out/production/classes/
+/Topics/Data Transfer Object in Spring/DTO advantages/out/
+/Topics/Data Transfer Object in Spring/DTO advantages/out/production/classes/
+/Topics/Data Transfer Object in Spring/Implementation of a DTO/out/
+/Topics/Data Transfer Object in Spring/Implementation of a DTO/out/production/classes/
+/Topics/Data Transfer Object in Spring/The purposes of ModelMapper/out/
+/Topics/Data Transfer Object in Spring/The purposes of ModelMapper/out/production/classes/
+/Topics/Data Transfer Object in Spring/Theory/out/
+/Topics/Data Transfer Object in Spring/Theory/out/production/classes/
+/Topics/Inner classes/A bow and a cat/out/
+/Topics/Inner classes/A bow and a cat/out/production/classes/
+/Topics/Inner classes/Improve your vehicle/out/
+/Topics/Inner classes/Improve your vehicle/out/production/classes/
+/Topics/Inner classes/Pumpkin and candle/out/
+/Topics/Inner classes/Pumpkin and candle/out/production/classes/
+/Topics/Inner classes/Theory/out/
+/Topics/Inner classes/Theory/out/production/classes/
+/Topics/Inner classes/Why do we need inner classes/out/
+/Topics/Inner classes/Why do we need inner classes/out/production/classes/
+/Topics/Thread management/VeganPizza/out/
+/Topics/Thread management/VeganPizza/out/production/classes/
